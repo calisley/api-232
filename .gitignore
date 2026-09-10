@@ -1,0 +1,11 @@
+.DS_Store
+.env
+*.zip
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+.ipynb_checkpoints/
+.quarto/
+*_files/
+*.html
