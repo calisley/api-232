@@ -9,3 +9,12 @@ __pycache__/
 .quarto/
 *_files/
 *.html
+
+# local-only course files; this repo tracks the 311 sample
+lecture_slides/
+problem_scratch/
+quiz-template/
+section-materials/
+setup/
+README.md
+section-1/README.md
