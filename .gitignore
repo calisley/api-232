@@ -18,3 +18,9 @@ section-materials/
 setup/
 README.md
 section-1/README.md
+
+# Instructor-only materials (prep scripts, raw downloads, answer keys)
+instructor/
+
+# Instructor slide decks (not distributed through this repo)
+Section *.pdf
